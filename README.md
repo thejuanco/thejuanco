@@ -1,5 +1,7 @@
 ## Hi, I am Juanco👋
 
+### Actualmente trabajo como desarrollador .NET 🥵
+
 <!--
 **thejuanco/thejuanco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
