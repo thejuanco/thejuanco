@@ -11,8 +11,8 @@ Actualmente trabajo como desarrollador .NET, pero siempre estoy explorando nueva
 - 🛠️ Otros: `Git`, `Postman`, `Microsoft Teams`  
 
 ## 📂 Proyectos Destacados  
-- 🔗 [Mi aplicación de veterinario]([https://github.com/thejuanco](https://github.com/thejuanco/Cliente-Veterinaria-Node.git))  
-- 🔗 [Mi app de trabajo colaborativo](https://github.com/thejuanco)  
+- 🔗 [Mi aplicación de veterinario](https://github.com/thejuanco/Cliente-Veterinaria-Node.git)  
+- 🔗 [Mi app de control de finanzas](https://github.com/thejuanco/moneta-flow-front.git) 
 
 ## 📫 Conéctate conmigo  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/thejuanco)  
