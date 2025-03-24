@@ -15,7 +15,7 @@ Actualmente trabajo como desarrollador .NET, pero siempre estoy explorando nueva
 - 🔗 [Mi app de control de finanzas](https://github.com/thejuanco/moneta-flow-front.git) 
 
 ## 📫 Conéctate conmigo  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/thejuanco)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/juan-m-cruz-ortiz-b56607283/)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/thejuanco)  
 
 ## 📊 Mis estadísticas  
