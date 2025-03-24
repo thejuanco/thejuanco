@@ -5,13 +5,13 @@
 Actualmente trabajo como desarrollador .NET, pero siempre estoy explorando nuevas tecnologías y mejores prácticas de desarrollo. Me encanta aprender y compartir conocimientos con la comunidad.  
 
 ## 💻 Tecnologías y herramientas  
-- 🏗️ Backend: `.NET (C#)`, `ASP.NET`, `SQL Server`  
+- 🏗️ Backend: `.NET (C#)`, `ASP.NET`, `SQL Server`, `Node js`
 - 🖥️ Frontend: `HTML`, `CSS`, `JavaScript`, `React`  
 - ☁️ DevOps: `Docker`, `Azure`  
-- 🛠️ Otros: `Git`, `Postman`, `Jira`  
+- 🛠️ Otros: `Git`, `Postman`, `Microsoft Teams`  
 
 ## 📂 Proyectos Destacados  
-- 🔗 [Mi aplicación de hospital](https://github.com/thejuanco)  
+- 🔗 [Mi aplicación de veterinario]([https://github.com/thejuanco](https://github.com/thejuanco/Cliente-Veterinaria-Node.git))  
 - 🔗 [Mi app de trabajo colaborativo](https://github.com/thejuanco)  
 
 ## 📫 Conéctate conmigo  
