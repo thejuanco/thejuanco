@@ -16,7 +16,7 @@ Actualmente trabajo como desarrollador .NET, pero siempre estoy explorando nueva
 
 ## 📫 Conéctate conmigo  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/juan-m-cruz-ortiz-b56607283/)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/thejuanco)  
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/thejuancoo)  
 
 ## 📊 Mis estadísticas  
 ![Juanco's GitHub stats](https://github-readme-stats.vercel.app/api?username=thejuanco&show_icons=true&theme=dark)  
