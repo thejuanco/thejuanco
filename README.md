@@ -5,7 +5,7 @@
 Actualmente trabajo como desarrollador .NET, pero siempre estoy explorando nuevas tecnologías y mejores prácticas de desarrollo. Me encanta aprender y compartir conocimientos con la comunidad.  
 
 ## 💻 Tecnologías y herramientas  
-- 🏗️ Backend: `.NET (C#)`, `ASP.NET`, `SQL Server`, `Node js`
+- 🏗️ Backend: `.NET (C#)`, `ASP.NET`, `SQL Server`, `Node js`, `Python`, `Django`
 - 🖥️ Frontend: `HTML`, `CSS`, `JavaScript`, `React`  
 - ☁️ DevOps: `Docker`, `Azure`  
 - 🛠️ Otros: `Git`, `Postman`, `Microsoft Teams`  
