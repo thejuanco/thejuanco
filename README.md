@@ -12,7 +12,7 @@ Actualmente trabajo como desarrollador .NET, pero siempre estoy explorando nueva
 
 ## 📂 Proyectos Destacados  
 - 🔗 [Mi aplicación pomodoro](https://pomodorozen.netlify.app/)  
-- 🔗 [Mi Portafolio](https://juancoportafolio.netlify.app/) 
+- 🔗 ##[Mi Portafolio](https://juancoportafolio.netlify.app/) 
 
 ## 📫 Conéctate conmigo  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/juan-m-cruz-ortiz-b56607283/)
