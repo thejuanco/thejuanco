@@ -19,4 +19,4 @@ Actualmente trabajo como desarrollador .NET, pero siempre estoy explorando nueva
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/thejuancoo)  
 
 ## 📊 Mis estadísticas  
-![Juanco's GitHub stats](https://github-readme-stats.vercel.app/api?username=thejuanco&show_icons=true&theme=dark)  
+![Juanco's GitHub status](https://github-readme-stats.vercel.app/api?username=thejuanco&show_icons=true&theme=dark)  
